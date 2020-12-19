@@ -18,6 +18,9 @@ def clear():
     e.delete(0, END)
 
 
+
+
+
 def add():
     first_number = e.get()
     global f_num
